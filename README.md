@@ -2,7 +2,7 @@
 
 ### Hi İm There Lanceas <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
-<p align="left">Selam, Ben Arda Discord Botları Yapıyorum Sadece
+<p align="left">Selam, Ben Kubilay Discord Botları Yapıyorum Sadece
 
 ### Software Languages
 
@@ -13,11 +13,11 @@
 <br />
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
-<a href="https://discord.com/users/852834797176094721" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
-<a href="https://github.com/Aurorafx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.com/users/899023619773067275" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://github.com/Asmodeus7" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aurorafx" alt="Aurorafx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Asmodeus7" alt="Asmodeus7" /> </p>
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852834797176094721)](https://discord.com/users/852834797176094721)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/899023619773067275)](https://discord.com/users/899023619773067275)
