@@ -1,16 +1,8 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="right" width="400" height="250">
+ <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="Asmodeus7" />
 
-### Hi İm There Lanceas <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
-
-<p align="left">Selam, Ben Kubilay Discord Botları Yapıyorum Sadece
-
-### Software Languages
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" />
-<br />
+<div align="center">
+ <img alt="GIF" src="https://camo.githubusercontent.com/fb545c5c9036e1c7acdd0baa2129c848f6c9e7272fdd40b9c51b42c1ef64ad13/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836373835353139353138363739303436302f3837393834303530313535323030313033342f39616363323939663163396163343366376633356432316361643633636130612e706e67"/> 
+</div>
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
 <a href="https://discord.com/users/899023619773067275" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
